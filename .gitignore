@@ -1,0 +1,11 @@
+# Data are not redistributed (IPUMS-CPS extract and the green-occupation list)
+*.csv
+*.dta
+*.xlsx
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
